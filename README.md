@@ -5,11 +5,11 @@
 <h3 align="center">SCRIPT CREATOR & MODIFIED FOR NEXT GENERATION</h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=EZ-Code00&label=Profile%20views&color=0e75b6&style=flat" alt="EZ-Code00" /> </p>
 
-⛓️‍💥 FULLSCRIPT FALLBACK MULTIPORT V1 : [CLOSED NOW📴]()
+⛓️‍💥 FULLSC FALLBACK MULTIPORT V1 : [CLOSED NOW📴]()
 
-🔗 FULLSCRIPT NGINX MULTIPORT V2 : [HERE](https://github.com/EZ-Code00/scv2)
+🔗 FULLSC NGINX MULTIPORT V2 : [HERE](https://github.com/EZ-Code00/scv2)
 
-🔗 FULLCRIPT LITE NEW GENERATION V3 : [HERE](https://github.com/EZ-Code00/scv3)
+🔗 FULLSC LITE NEW GENERATION V3 : [HERE](https://github.com/EZ-Code00/scv3)
 
 
 Here are some ideas to get you started:
