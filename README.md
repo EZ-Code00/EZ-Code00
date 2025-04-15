@@ -7,9 +7,9 @@
 
 ⛓️‍💥 FULLSC FALLBACK MULTIPORT V1 : [OFF]()
 
-🔗 FULLSC NGINX MULTIPORT V2 : [HERE](https://github.com/EZ-Code00/scv2)
+🔗 FULLSC NGINX MULTIPORT V2 : [ON](https://github.com/EZ-Code00/scv2)
 
-🔗 FULLSC LITE NEW GENERATION V3 : [HERE](https://github.com/EZ-Code00/scv3)
+🔗 FULLSC LITE NEW GENERATION V3 : [ON](https://github.com/EZ-Code00/scv3)
 
 
 Here are some ideas to get you started:
