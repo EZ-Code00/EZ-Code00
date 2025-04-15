@@ -7,9 +7,9 @@
 
 ⛓️‍💥 FULLSCRIPT FALLBACK MULTIPORT V1 : [CLOSED NOW📴]()
 
-🔗 FULLSCRIPT NGINX MULTIPORT V2 : [HERE](https://github.com/EZ-Code00/EZ-Code-ScriptVPN)
+🔗 FULLSCRIPT NGINX MULTIPORT V2 : [HERE](https://github.com/EZ-Code00/scv2)
 
-🔗 FULLCRIPT LITE NEW GENERATION V3 : [HERE](https://github.com/NevermoreSSH/hop)
+🔗 FULLCRIPT LITE NEW GENERATION V3 : [HERE](https://github.com/EZ-Code00/scv3)
 
 
 Here are some ideas to get you started:
