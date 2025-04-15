@@ -7,7 +7,7 @@
 
 ⛓️‍💥 FULLSCRIPT FALLBACK MULTIPORT V1 : [CLOSED NOW📴]()
 
-🔗 FULLSCRIPT NGINX MULTIPORT V2 : [HERE](https://github.com/NevermoreSSH/Blueblue)
+🔗 FULLSCRIPT NGINX MULTIPORT V2 : [HERE](https://github.com/EZ-Code00/EZ-Code-ScriptVPN)
 
 🔗 FULLCRIPT LITE NEW GENERATION V3 : [HERE](https://github.com/NevermoreSSH/hop)
 
