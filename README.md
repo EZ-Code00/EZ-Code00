@@ -5,9 +5,9 @@
 <h3 align="center">SCRIPT CREATOR & MODIFIED FOR NEXT GENERATION</h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=EZ-Code00&label=Profile%20views&color=0e75b6&style=flat" alt="EZ-Code00" /> </p>
 
-🔗 AUTOSCRIPT PREMIUM : [ON](https://github.com/EZ-Code00/sc)
+🔗 AUTOSCRIPT PREMIUM : [HERE](https://github.com/EZ-Code00/sc)
 
-🔗 AUTOSCRIPT FREE : [ON](https://github.com/EZ-Code00/SCFALLBACK)
+🔗 AUTOSCRIPT FREE : [HERE](https://github.com/EZ-Code00/SCFALLBACK)
 
 
 Here are some ideas to get you started:
